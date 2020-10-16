@@ -1,0 +1,408 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\WebApplication1\\Template.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Application\\App.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Application\\App.Application.csproj",
+        "projectName": "App.Application",
+        "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Application\\App.Application.csproj",
+        "packagesPath": "C:\\Users\\ADMR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.Data\\App.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.Data\\App.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Domain\\App.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Domain\\App.Domain.csproj",
+        "projectName": "App.Domain",
+        "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Domain\\App.Domain.csproj",
+        "packagesPath": "C:\\Users\\ADMR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.CrossCutting.IoC\\App.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.CrossCutting.IoC\\App.Infra.CrossCutting.IoC.csproj",
+        "projectName": "App.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.CrossCutting.IoC\\App.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\ADMR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Application\\App.Application.csproj": {
+                "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Application\\App.Application.csproj"
+              },
+              "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.Data\\App.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.Data\\App.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.Data\\App.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.Data\\App.Infra.Data.csproj",
+        "projectName": "App.Infra.Data",
+        "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.Data\\App.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\ADMR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Domain\\App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Shared\\App.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Shared\\App.Shared.csproj",
+        "projectName": "App.Shared",
+        "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Shared\\App.Shared.csproj",
+        "packagesPath": "C:\\Users\\ADMR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\WebApplication1\\Template.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\WebApplication1\\Template.csproj",
+        "projectName": "Template",
+        "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\WebApplication1\\Template.csproj",
+        "packagesPath": "C:\\Users\\ADMR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\WebApplication1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Application\\App.Application.csproj": {
+                "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Application\\App.Application.csproj"
+              },
+              "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.CrossCutting.IoC\\App.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Infra.CrossCutting.IoC\\App.Infra.CrossCutting.IoC.csproj"
+              },
+              "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Shared\\App.Shared.csproj": {
+                "projectPath": "C:\\Users\\ADMR\\Documents\\GitAndre\\API.NET.CORE\\APP.API\\App.Shared\\App.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.deps.json
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.pdb
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\App.Infra.Data.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\App.Infra.Data.pdb
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\App.Domain.pdb
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.pdb
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\App.Application.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\App.Application.pdb

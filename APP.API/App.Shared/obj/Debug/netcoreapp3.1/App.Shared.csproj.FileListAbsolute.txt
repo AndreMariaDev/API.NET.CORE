@@ -1,0 +1,9 @@
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Shared\bin\Debug\netcoreapp3.1\App.Shared.deps.json
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Shared\bin\Debug\netcoreapp3.1\App.Shared.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Shared\bin\Debug\netcoreapp3.1\App.Shared.pdb
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.csprojAssemblyReference.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.AssemblyInfoInputs.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.AssemblyInfo.cs
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.pdb

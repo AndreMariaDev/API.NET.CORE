@@ -1,0 +1,9 @@
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.deps.json
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.pdb
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csprojAssemblyReference.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfoInputs.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfo.cs
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.pdb

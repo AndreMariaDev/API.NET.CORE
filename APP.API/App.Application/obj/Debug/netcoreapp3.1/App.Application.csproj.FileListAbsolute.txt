@@ -1,0 +1,14 @@
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\obj\Debug\netcoreapp3.1\App.Application.csprojAssemblyReference.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\obj\Debug\netcoreapp3.1\App.Application.AssemblyInfoInputs.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\obj\Debug\netcoreapp3.1\App.Application.AssemblyInfo.cs
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\obj\Debug\netcoreapp3.1\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\bin\Debug\netcoreapp3.1\App.Application.deps.json
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\bin\Debug\netcoreapp3.1\App.Application.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\bin\Debug\netcoreapp3.1\App.Application.pdb
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\bin\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\bin\Debug\netcoreapp3.1\App.Infra.Data.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\bin\Debug\netcoreapp3.1\App.Infra.Data.pdb
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\bin\Debug\netcoreapp3.1\App.Domain.pdb
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\obj\Debug\netcoreapp3.1\App.Application.csproj.CopyComplete
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\obj\Debug\netcoreapp3.1\App.Application.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\App.Application\obj\Debug\netcoreapp3.1\App.Application.pdb
