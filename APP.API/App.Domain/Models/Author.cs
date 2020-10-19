@@ -4,8 +4,12 @@ using System.Text;
 
 namespace App.Domain.Models
 {
-    public class Author: DomainEntity
+    public class Author : DomainEntity
     {
+        public Author()
+        {
+            Books = new HashSet<Book>();
+        }
         public string FirstName { get; set; }
 
         public string LastName { get; set; }

@@ -23,6 +23,20 @@ namespace App.Infra.Data.Repository
         {
             return this.RepositoryContext.Set<T>().AsNoTracking();
         }
+
+        private IEnumerable<T> GetAll()
+        {
+            return this.RepositoryContext.Set<T>().AsEnumerable();
+        }
+
+        private IQueryable<T> GetAllMultipleIncludes()
+        {
+            var query = this.RepositoryContext.Set<T>().AsQueryable();
+            foreach (var property in this.RepositoryContext.Model.FindEntityType(typeof(T)).GetNavigations())
+                query = query.Include(property.Name);
+            return query;
+        }
+
         private IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression)
         {
             return this.RepositoryContext.Set<T>()
@@ -48,6 +62,10 @@ namespace App.Infra.Data.Repository
 
         public async Task<IEnumerable<T>> GetAllAsync()
         {
+            var teste = await FindAll()
+               .OrderBy(ow => ow.Id)
+               .ToListAsync();
+
             return await FindAll()
                .OrderBy(ow => ow.Id)
                .ToListAsync();
@@ -63,6 +81,13 @@ namespace App.Infra.Data.Repository
                 .Include(ac => ac.Id)
                 .FirstOrDefaultAsync();
         }
+        public async Task<IEnumerable<T>> GetAllAsyncMultipleIncludes()
+        {
+            return await GetAllMultipleIncludes()
+               .OrderBy(ow => ow.Id)
+               .ToListAsync();
+        }
+
         public void Dispose()
         {
             Dispose(true);

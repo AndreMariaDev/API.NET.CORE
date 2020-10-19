@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace App.Infra.Data.Migrations
 {
-    public partial class Start : Migration
+    public partial class star : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -34,27 +34,26 @@ namespace App.Infra.Data.Migrations
                     CreateDate = table.Column<DateTime>(nullable: false),
                     DateUpdate = table.Column<DateTime>(nullable: true),
                     UserCode = table.Column<string>(nullable: true),
-                    AuthorId = table.Column<long>(nullable: false),
+                    AuthorId = table.Column<Guid>(nullable: false),
                     Name = table.Column<string>(nullable: true),
                     ISBN = table.Column<string>(nullable: true),
-                    Publisher = table.Column<string>(nullable: true),
-                    AuthorId1 = table.Column<Guid>(nullable: true)
+                    Publisher = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Books", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Books_Authors_AuthorId1",
-                        column: x => x.AuthorId1,
+                        name: "FK_Books_Authors_AuthorId",
+                        column: x => x.AuthorId,
                         principalTable: "Authors",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Books_AuthorId1",
+                name: "IX_Books_AuthorId",
                 table: "Books",
-                column: "AuthorId1");
+                column: "AuthorId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

@@ -6,7 +6,10 @@ namespace App.Domain.Models
 {
     public class Book: DomainEntity
     {
-        public Int64 AuthorId { get; set; }
+        public Book() 
+        {
+        }
+        public Guid AuthorId { get; set; }
 
         public string Name { get; set; }
 

@@ -3,8 +3,6 @@ C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.AssemblyInfoInputs.cache
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.AssemblyInfo.cs
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.RazorTargetAssemblyInfo.cache
-C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.csproj.CoreCompileInputs.cache
-C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -48,10 +46,16 @@ C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\App.Application.pdb
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\App.Infra.CrossCutting.IoC.pdb
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\App.Infra.Data.pdb
-C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.csproj.CopyComplete
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\Template.StaticWebAssets.Manifest.cache
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\Template.StaticWebAssets.xml
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.dll
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.pdb
 C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.genruntimeconfig.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.csproj.CoreCompileInputs.cache
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMR\Documents\GitAndre\API.NET.CORE\APP.API\WebApplication1\obj\Debug\netcoreapp3.1\Template.MvcApplicationPartsAssemblyInfo.cache

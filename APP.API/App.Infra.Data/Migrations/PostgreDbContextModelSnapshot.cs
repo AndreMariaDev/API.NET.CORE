@@ -57,10 +57,7 @@ namespace App.Infra.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uuid");
 
-                    b.Property<long>("AuthorId")
-                        .HasColumnType("bigint");
-
-                    b.Property<Guid?>("AuthorId1")
+                    b.Property<Guid>("AuthorId")
                         .HasColumnType("uuid");
 
                     b.Property<DateTime>("CreateDate")
@@ -86,7 +83,7 @@ namespace App.Infra.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AuthorId1");
+                    b.HasIndex("AuthorId");
 
                     b.ToTable("Books");
                 });
@@ -95,7 +92,9 @@ namespace App.Infra.Data.Migrations
                 {
                     b.HasOne("App.Domain.Models.Author", "Author")
                         .WithMany("Books")
-                        .HasForeignKey("AuthorId1");
+                        .HasForeignKey("AuthorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

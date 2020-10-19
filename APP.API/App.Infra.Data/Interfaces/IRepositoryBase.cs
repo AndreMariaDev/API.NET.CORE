@@ -9,6 +9,7 @@ namespace App.Infra.Data.Interfaces
     public interface IRepositoryBase<T> : IDisposable where T : DomainEntity
     {
         Task<IEnumerable<T>> GetAllAsync();
+        Task<IEnumerable<T>> GetAllAsyncMultipleIncludes();
         Task<T> GetByIdAsync(Guid Id);
         Task<T> GetWithDetailsAsync(Guid Id);
         Task<T> Create(T entity);

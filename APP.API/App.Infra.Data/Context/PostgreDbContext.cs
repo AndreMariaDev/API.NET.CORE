@@ -16,9 +16,10 @@ namespace App.Infra.Data.Context
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.Entity<Author>()
-                .HasMany(a => a.Books)
-                .WithOne(b => b.Author);
+            builder.Entity<Book>()
+            .HasOne<Author>(b => b.Author)
+            .WithMany(g => g.Books)
+            .HasForeignKey(b => b.AuthorId);
 
             base.OnModelCreating(builder);
         }

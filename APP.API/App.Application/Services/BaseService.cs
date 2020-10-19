@@ -26,6 +26,10 @@ namespace App.Application.Services
         {
             return await Repository.GetAllAsync();
         }
+        public async Task<IEnumerable<T>> GetAllAsyncMultipleIncludes()
+        {
+            return await Repository.GetAllAsyncMultipleIncludes();
+        }
         public async Task<T> GetByIdAsync(Guid Id)
         {
             return await Repository.GetByIdAsync(Id);

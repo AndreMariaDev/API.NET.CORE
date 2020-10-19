@@ -31,7 +31,7 @@ namespace WebApplication1.Controllers
                 if (_offset > _limit)
                     return StatusCode((int)HttpStatusCode.PreconditionFailed, "Bad Request!");
 
-                var result = await _service.GetAllAsync();
+                var result = await _service.GetAllAsyncMultipleIncludes();
 
                 var skip = (_offset - 1) * _limit;
 
